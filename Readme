@@ -1,0 +1,8 @@
+hello 
+this project is my first big project in computer scince and the important project because it's the greaduation project 
+the project is to design a Large language model for academic context summarizaton 
+what i do to design it is using fine tuning teachnque with transformer library and Pytorch 
+i used right now GPT-2 model for fine tuning  and the outcome is not bad untill now i'm tring to improve it 
+i work to inhanced the dataset guality to raised the model becnhmark 
+so i designed i code to extract text from PDF files and generate from it a stractured JSon question and answer format for fine tuning
+i used  ethics PDF book and 5 chapters from image processing 
